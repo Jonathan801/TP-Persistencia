@@ -1,3 +1,6 @@
+## Tp Realizado en la cursada de Estrategias de Persistencia en la UNQ en el segundo cuatrimestre de 2019
+
+
 La compañía para la que empezamos a trabajar está desarrollando un nuevo y original juego multijugador, online, 2.0 y todo eso. El nombre del juego es:
 
 <p align="center">
